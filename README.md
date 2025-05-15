@@ -38,6 +38,15 @@ The goal of this project is to build a classification model that can accurately 
   - Pair plots
   - Correlation matrix heatmaps
   - Class distribution bar charts
+
+ ![Image](https://github.com/user-attachments/assets/33148a21-fd8a-412f-be82-95a3c64c4d85)
+ 
+![Image](https://github.com/user-attachments/assets/0a32f0d6-d1c4-4633-a7fa-0663f48e2a48)
+
+![Image](https://github.com/user-attachments/assets/0e3b5641-cc91-4d71-9212-89d6c4e417e3)
+
+![Image](https://github.com/user-attachments/assets/6407404e-efa0-4c87-8571-e34e554cfc2c)
+  
 - 🛠️ Built a **Decision Tree Classifier** using:
   - Train/test split (80/20)
   - Model training using `DecisionTreeClassifier`
